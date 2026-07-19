@@ -306,19 +306,15 @@ Developed using:
 
 This project is developed for educational purposes.
 
-## 📷 Dashboard
 
 ![Dashboard](docs/Screenshot/Dashboard.png)
 
-## 🌐 Infrastructure
 
 ![Infrastructure](docs/Screenshot/Infrastruktur.png)
 
-## 🖥 EC2 Manager
 
 ![EC2 Manager](docs/Screenshot/EC2_Manager.png)
 
-## 🪣 S3 Manager
 
 ![S3 Manager](docs/Screenshot/S3_Manager.png)
 
