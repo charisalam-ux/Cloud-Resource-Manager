@@ -16,7 +16,7 @@ Cloud Resource Manager merupakan aplikasi berbasis **Jupyter Notebook** yang dik
 - Total S3 Bucket
 - Endpoint MiniStack
 
-### 🌐 Infrastructure
+### 🌐 Cloud Infrastructure
 - Create Virtual Private Cloud (VPC)
 - Create Public Subnet
 - Create Private Subnet
@@ -306,6 +306,7 @@ Developed using:
 
 This project is developed for educational purposes.
 
+---
 
 ![Dashboard](docs/Screenshot/Dashboard.png)
 
