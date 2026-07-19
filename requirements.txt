@@ -1,0 +1,7 @@
+boto3>=1.43.47
+ipywidgets>=8.1.1
+pandas>=3.0.3
+notebook>=7.6.0
+jupyterlab>=4.6.1
+ministack>=1.4.2
+stackport>=0.3.4
