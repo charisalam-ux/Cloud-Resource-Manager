@@ -68,23 +68,30 @@ Cloud Resource Manager merupakan aplikasi berbasis **Jupyter Notebook** yang dik
 ```
 Cloud-Resource-Manager/
 │
-├── notebook/
-│   └── Cloud_Resource_Manager.ipynb
+├── assets/
+│   └── logo_unissula.png
 │
 ├── docs/
-│   ├── Report.pdf
-│   ├── User_Manual.pdf
-│   ├── Architecture.png
-│   ├── Flowchart.png
+│   ├── LAPORAN_TUGAS_BESAR.pdf
+│   ├── MANUAL PENGGUNAAN APLIKASI.pdf
 │   └── Screenshot/
 │       ├── dashboard.png
-│       ├── infrastructure.png
-│       ├── ec2_manager.png
-│       └── s3_manager.png
+│       ├── EC2_manager.png
+│       ├── EC2_Satckport.png
+│       ├── infrastruktur.png
+│       ├── S3_Manager.png
+│       ├── S3_Object_Stackport.png
+│       ├── S3_Stackport.png
+│       └── Upload_Object.png
 │
-├── requirements.txt
+├── notebook/
+│   ├── Cloud_Resource_Manager.ipynb
+│   └── setup.ipnyb
+│
+├── .gitignore
+├── LICENSE
 ├── README.md
-└── LICENSE
+└── requirements.txt
 ```
 
 ---
